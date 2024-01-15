@@ -1,0 +1,37 @@
+body{
+    ont-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',
+        Geneva, Verdana, sans-serif;;
+}
+.header{
+    color: white;
+    background-color: black;
+    background-size: cover;
+    background-position: center;
+    height: 5em;
+    padding: 5em;
+    font-size: 2em;
+    font-size: 2em;
+}
+
+h1{
+    margin: 0px;
+    font-weight: 300;
+}
+.products{
+    margin: auto;
+    width: 80%;
+}
+.products td{
+    width: 45%;
+    padding: 2em;
+}
+.products img{
+ width: 200px;
+}
+.footer{
+    background-color: black;
+    padding: 1em;
+    color: white;
+    line-height: 3em;
+    text-align: center;
+}
